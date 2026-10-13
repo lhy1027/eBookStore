@@ -2,6 +2,20 @@
 
 基于 Spring Boot + Vue3 的前后端分离网上书店系统，支持用户浏览/下单/支付和管理员后台管理。
 
+## 效果展示
+
+### 客户端首页
+
+![客户端首页](docs/screenshots/client-home.png)
+
+### 管理端仪表盘
+
+![管理端仪表盘](docs/screenshots/admin-dashboard.png)
+
+### 管理端图书管理
+
+![管理端图书管理](docs/screenshots/admin-books.png)
+
 ## 技术栈
 
 ### 后端
