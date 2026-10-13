@@ -1,0 +1,1 @@
+UPDATE admin SET password = '$2a$10$cmQl1MetjRUbJq4ihBYB5uRig/FKqQQKbfdZKmFOyemACSVKblTke' WHERE id = 1;
